@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/andersonresendes/demo/compare/v1.2.0...v2.0.0) (2022-03-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* teste
+
+### Features
+
+* teste ([b8a9c94](https://github.com/andersonresendes/demo/commit/b8a9c94aee3592f585a814c0a12bb1a63a737711))
+
 ## [1.2.0](https://github.com/andersonresendes/demo/compare/v1.1.1...v1.2.0) (2022-03-16)
 
 
