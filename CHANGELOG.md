@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/andersonresendes/demo/compare/v2.0.3...v2.1.0) (2022-03-16)
+
+
+### Features
+
+* remove eitaa ([7eefe99](https://github.com/andersonresendes/demo/commit/7eefe9968d26d71dfc29b40cc128c73c55aed876))
+* remove vish ([0446e39](https://github.com/andersonresendes/demo/commit/0446e39de9c09105ea6518633895343af7010175))
+
 ### [2.0.3](https://github.com/andersonresendes/demo/compare/v2.0.2...v2.0.3) (2022-03-16)
 
 ### [2.0.2](https://github.com/andersonresendes/demo/compare/v2.0.1...v2.0.2) (2022-03-16)
