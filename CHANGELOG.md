@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.5](https://github.com/andersonresendes/demo/compare/v2.1.4...v2.1.5) (2022-03-25)
+
+
+### Bug Fixes
+
+* remove print a ([b828325](https://github.com/andersonresendes/demo/commit/b82832558f271e422a2964f766c2deb2092c3461))
+
 ### [2.1.4](https://github.com/andersonresendes/demo/compare/v2.1.3...v2.1.4) (2022-03-25)
 
 
