@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/andersonresendes/demo/compare/v4.2.0...v5.0.0) (2022-03-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* print a
+
+### Bug Fixes
+
+* print a ([33b963a](https://github.com/andersonresendes/demo/commit/33b963aafc8d4784154ba98083322c552d362ac1))
+
 ## [4.2.0](https://github.com/andersonresendes/demo/compare/v4.1.0...v4.2.0) (2022-03-25)
 
 
